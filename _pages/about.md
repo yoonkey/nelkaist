@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='bioeng.kaist.ac.kr'> Department of Bio and Brain Engineering</a>. <a href='www.kaist.ac.kr'> Korea Advanced Institute of Science and Technology (KAIST)</a>
+subtitle: Department of Bio and Brain Engineering, Korea Advanced Institute of Science and Technology (KAIST)
 profile:
   align: right
   image: prof_pic.jpg
