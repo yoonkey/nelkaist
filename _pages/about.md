@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: @ KAIST
+subtitle: 
 profile:
   align: right
   image: prof_pic.jpg
