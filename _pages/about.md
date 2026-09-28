@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Bio and Brain Engineering, Korea Advanced Institute of Science and Technology (KAIST)
+subtitle: @ KAIST
 profile:
   align: right
   image: prof_pic.jpg
